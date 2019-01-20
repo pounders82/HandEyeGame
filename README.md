@@ -11,6 +11,7 @@ This project is simple game that I have created to practice the concepts of Java
 Project is created with:
 * Java version: 8 update 191
 * Java SDK version: 1.8.0_201
+* Intellij IDEA CE
 
 
 	
