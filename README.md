@@ -10,7 +10,7 @@ This project is simple game that I have created to practice the concepts of Java
 ## Technologies
 Project is created with:
 * Java version: 8 update 191
-* Java SDK version: 1.8.0_60
+* Java SDK version: 1.8.0_201
 
 
 	
