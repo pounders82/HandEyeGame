@@ -20,7 +20,7 @@ public class EyeHand extends Application {
     private CirclePane a = new CirclePane();
 
     @Override
-    public void start(Stage primaryStage) throws Exception {
+    public void start(Stage primaryStage) {
 
         Random random = new Random();
         final int[] count = {1};

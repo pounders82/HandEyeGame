@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Eye-HandCordination-NRP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Eye_HandCordination_NRP_jar</output-path>
+    <root id="archive" name="Eye-HandCordination-NRP.jar">
+      <element id="module-output" name="EyeHandCordination" />
+    </root>
+  </artifact>
+</component>

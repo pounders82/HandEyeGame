@@ -5,7 +5,7 @@ import javafx.scene.shape.Circle;
 import java.util.Random;
 
 /**
- * Created by Pounders82 o
+ * Created by Pounders82 on 11/16/15.
  */
 public class CirclePane extends Pane {
     private Circle circle = new Circle(10);
@@ -20,7 +20,7 @@ public class CirclePane extends Pane {
         getChildren().add(circle);
         circle.setFill(Color.hsb(a.nextInt(360),Math.random(),Math.random()));
     }
-    
+
     public void changeColor() {
         circle.setFill(Color.hsb(a.nextInt(360), Math.random(), Math.random()));
     }
